@@ -24,17 +24,20 @@ This feat is achieved through the integration of hardware marvels, including the
 ![image](https://github.com/SurajSonawane2415/Autonomous-Vehicle/assets/129578177/78e19e50-c318-4971-ab04-4040d258b28f)
 ![image](https://github.com/SurajSonawane2415/Autonomous-Vehicle/assets/129578177/31c67acf-1a3b-4029-bd88-d3ae2e438897)
 ![image](https://github.com/SurajSonawane2415/Autonomous-Vehicle/assets/129578177/c2514006-f2df-4618-94a5-40a0cef64919)
+<img src="https://github.com/SurajSonawane2415/Autonomous-Vehicle/assets/129578177/06bb98e4-c40b-4d47-8bf6-e3571164a167" width="440" height="400">
 
 
    The foundation of lane following lies in advanced image processing techniques. Our autonomous vehicle utilizes a Region of Interest (ROI) approach to precisely identify and track lane markings on the road. By focusing on the relevant portion of the image, the vehicle's algorithms analyze lane curvature, position, and changes, enabling the car to maintain a steady course within the lane.
 
 #### 2. Object Detection:
-![image](https://github.com/SurajSonawane2415/Autonomous-Vehicle/assets/129578177/54253f7b-96d8-4c06-bae9-07fd3b778bb4)
+<img src="https://github.com/SurajSonawane2415/Autonomous-Vehicle/assets/129578177/54253f7b-96d8-4c06-bae9-07fd3b778bb4" width="600" height="390">
+<img src="https://github.com/SurajSonawane2415/Autonomous-Vehicle/assets/129578177/f21a5376-bdd9-4add-a869-660c5426facb" width="300" height="390">
 
    The power of image processing truly shines in object detection, where we utilize a two-fold approach. Our autonomous car employs advanced image processing techniques coupled with the HAAR Cascade Classifier. This cascade classifier is a machine learning-based method specifically trained to recognize patterns, including objects such as obstacles. The system processes real-time visual data to swiftly identify and track these objects. This dual technique, combining image processing and the HAAR Cascade Classifier, ensures rapid and accurate decision-making, enabling the vehicle to expertly navigate through dynamic road environments.collision avoidance.
 
 #### 3. Road Sign Detection:
 ![image](https://github.com/SurajSonawane2415/Autonomous-Vehicle/assets/129578177/e51d79d5-2dbc-412b-9435-fd97d3004178)
+<img src="https://github.com/SurajSonawane2415/Autonomous-Vehicle/assets/129578177/6b2b96b4-34df-440e-81c2-6afc45bcd1ce" width="300" height="390">
 
    Our road sign detection function employs the HAAR Cascade Classifier, a machine learning-based approach. By training the system on a diverse dataset of road signs, the vehicle can swiftly detect and interpret different signs, extracting essential information. This capability ensures the vehicle's compliance with road regulations, enhancing road safety through accurate and timely responses.
 
@@ -48,6 +51,9 @@ This feat is achieved through the integration of hardware marvels, including the
 
 #### 5. Lane End Detection:
 ![image](https://github.com/SurajSonawane2415/Autonomous-Vehicle/assets/129578177/9de3162e-a7c5-4053-bd86-aa420115fcf7)
+<img src="https://github.com/SurajSonawane2415/Autonomous-Vehicle/assets/129578177/1bdeeea8-343f-4c0d-aa00-e750f32ee9b5" width="300" height="370">
+
+
 
    The prowess of image processing extends to lane end detection. By analyzing visual cues, the vehicle can identify when a lane is approaching its termination. The system then triggers a lane change maneuver, taking into account neighboring lanes and other vehicles. This process ensures smooth and confident lane transitions, exemplifying the car's adaptability to changing road conditions.
 
