@@ -317,8 +317,6 @@ void Lane_Change()
   analogWrite(EnableL, 150);
   analogWrite(EnableR, 150);
   delay(500);
-
-
 }
 
 void loop()
@@ -421,15 +419,8 @@ void loop()
       analogWrite(EnableR, 0);
   
    }
-
-
      else if(data>10)
    {
      Stop();
    }
-
-
-   
-
-
 }
