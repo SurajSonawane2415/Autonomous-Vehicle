@@ -1,6 +1,5 @@
 # Autonomous Vehicle
-![Untitled design](https://github.com/SurajSonawane2415/Autonomous-Vehicle/assets/129578177/bffc2d60-c995-46b9-8037-4c486457817c)
-
+![Untitled design]([https://github.com/SurajSonawane2415/Autonomous-Vehicle/assets/129578177/bffc2d60-c995-46b9-8037-4c486457817c](https://images.unsplash.com/photo-1608848461950-0fe51dfc41cb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8fA%3D%3D&w=1000&q=80)
 ## About The Project
 In a remarkable stride towards the future of transportation, we present the "Autonomous Vehicle" project—a groundbreaking endeavor that redefines the driving experience through the fusion of cutting-edge technologies. This project embodies innovation at its finest, introducing a revolutionary approach to road safety and efficiency through the integration of embedded systems, image processing, machine learning, and advanced sensor capabilities.
 
