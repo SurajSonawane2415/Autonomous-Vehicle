@@ -138,7 +138,7 @@ In the domain of warehouse operations, the project revolutionizes inventory hand
 
 ## Contributors
 
-- [Purva Yeshi](https://github.com/PurviSYeshi)           
+- [Purva Yeshi](https://github.com/purviyeshi)           
 - [Suraj Sonawane](https://github.com/SurajSonawane2415)           
 - [Pranav Vispute](https://github.com/visputepnv6)           
 - [Pallavi Chavanake](https://github.com/chavankepal64)    
