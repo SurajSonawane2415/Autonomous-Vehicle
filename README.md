@@ -1,5 +1,5 @@
 # Autonomous Vehicle
-
+![image](https://github.com/SurajSonawane2415/Autonomous-Vehicle/assets/129578177/e9c6d619-e922-452d-a8e2-e03176a4f1f4)
 ## About The Project
 In a remarkable stride towards the future of transportation, we present the "Autonomous Vehicle" project—a groundbreaking endeavor that redefines the driving experience through the fusion of cutting-edge technologies. This project embodies innovation at its finest, introducing a revolutionary approach to road safety and efficiency through the integration of embedded systems, image processing, machine learning, and advanced sensor capabilities.
 
@@ -20,39 +20,33 @@ This feat is achieved through the integration of hardware marvels, including the
 "Automated Functions" is the heart of our project, where our vehicle does five important things by itself:
 
 #### 1. Lane Following:
-![image](https://github.com/SurajSonawane2415/Autonomous-Vehicle/assets/129578177/78e19e50-c318-4971-ab04-4040d258b28f)
-![image](https://github.com/SurajSonawane2415/Autonomous-Vehicle/assets/129578177/31c67acf-1a3b-4029-bd88-d3ae2e438897)
-![image](https://github.com/SurajSonawane2415/Autonomous-Vehicle/assets/129578177/c2514006-f2df-4618-94a5-40a0cef64919)
-<img src="https://github.com/SurajSonawane2415/Autonomous-Vehicle/assets/129578177/06bb98e4-c40b-4d47-8bf6-e3571164a167" width="440" height="400">
-
+![image](https://github.com/SurajSonawane2415/Autonomous-Vehicle/assets/129578177/fced2efb-4707-4b74-b2ca-f7067c52b4e9)
+![YouCut_20230809_215503889_AdobeExpress](https://github.com/SurajSonawane2415/Autonomous-Vehicle/assets/129578177/26085833-cbac-4019-9448-c56aed171db2)
 
    The foundation of lane following lies in advanced image processing techniques. Our autonomous vehicle utilizes a Region of Interest (ROI) approach to precisely identify and track lane markings on the road. By focusing on the relevant portion of the image, the vehicle's algorithms analyze lane curvature, position, and changes, enabling the car to maintain a steady course within the lane.
 
 #### 2. Object Detection:
-<img src="https://github.com/SurajSonawane2415/Autonomous-Vehicle/assets/129578177/54253f7b-96d8-4c06-bae9-07fd3b778bb4" width="600" height="390">
-<img src="https://github.com/SurajSonawane2415/Autonomous-Vehicle/assets/129578177/f21a5376-bdd9-4add-a869-660c5426facb" width="300" height="390">
+![image](https://github.com/SurajSonawane2415/Autonomous-Vehicle/assets/129578177/c6844ed0-b4fb-4262-97f5-41b814ac4357)
 
    The power of image processing truly shines in object detection, where we utilize a two-fold approach. Our autonomous car employs advanced image processing techniques coupled with the HAAR Cascade Classifier. This cascade classifier is a machine learning-based method specifically trained to recognize patterns, including objects such as obstacles. The system processes real-time visual data to swiftly identify and track these objects. This dual technique, combining image processing and the HAAR Cascade Classifier, ensures rapid and accurate decision-making, enabling the vehicle to expertly navigate through dynamic road environments.collision avoidance.
 
 #### 3. Road Sign Detection:
-![image](https://github.com/SurajSonawane2415/Autonomous-Vehicle/assets/129578177/e51d79d5-2dbc-412b-9435-fd97d3004178)
-<img src="https://github.com/SurajSonawane2415/Autonomous-Vehicle/assets/129578177/6b2b96b4-34df-440e-81c2-6afc45bcd1ce" width="300" height="390">
+![image](https://github.com/SurajSonawane2415/Autonomous-Vehicle/assets/129578177/71391b79-54f5-433d-98cf-3ec8007ccfac)
+![YouCut_20230809_194654488_AdobeExpress (1)](https://github.com/SurajSonawane2415/Autonomous-Vehicle/assets/129578177/1f018458-438c-404c-a6da-b41344cc4eea)
 
    Our road sign detection function employs the HAAR Cascade Classifier, a machine learning-based approach. By training the system on a diverse dataset of road signs, the vehicle can swiftly detect and interpret different signs, extracting essential information. This capability ensures the vehicle's compliance with road regulations, enhancing road safety through accurate and timely responses.
 
 #### 4. Traffic Signal Detection:**
-![image](https://github.com/SurajSonawane2415/Autonomous-Vehicle/assets/129578177/3bb156cd-2092-42d5-82e2-5a4af7024236)
-<img src="https://github.com/SurajSonawane2415/Autonomous-Vehicle/assets/129578177/2124fe26-4b72-4081-b7d0-45083318d25e.gif" width="300" height="420">
+![image](https://github.com/SurajSonawane2415/Autonomous-Vehicle/assets/129578177/2e25a93e-0c69-42d4-970c-3c3aa50706ce)
+![YouCut_20230809_191459826_AdobeExpress](https://github.com/SurajSonawane2415/Autonomous-Vehicle/assets/129578177/7257a43d-1e71-415f-8120-2c366600e30f)
 
 
 
    Traffic signal detection leverages the vehicle's image processing capabilities to identify changes in signal color. The system processes visual data from the traffic light area, applying color filtering techniques to discern red, green, and yellow signals. This enables the vehicle to respond appropriately, demonstrating a cooperative and informed approach to traffic signals.
 
 #### 5. Lane End Detection:
-![image](https://github.com/SurajSonawane2415/Autonomous-Vehicle/assets/129578177/9de3162e-a7c5-4053-bd86-aa420115fcf7)
-<img src="https://github.com/SurajSonawane2415/Autonomous-Vehicle/assets/129578177/1bdeeea8-343f-4c0d-aa00-e750f32ee9b5" width="300" height="370">
-
-
+![image](https://github.com/SurajSonawane2415/Autonomous-Vehicle/assets/129578177/63b63377-0da0-4537-90c8-75e705327367)
+![YouCut_20230809_215800479_AdobeExpress](https://github.com/SurajSonawane2415/Autonomous-Vehicle/assets/129578177/3ea15a88-a243-466f-8f85-ec9533ae2ef9)
 
    The prowess of image processing extends to lane end detection. By analyzing visual cues, the vehicle can identify when a lane is approaching its termination. The system then triggers a lane change maneuver, taking into account neighboring lanes and other vehicles. This process ensures smooth and confident lane transitions, exemplifying the car's adaptability to changing road conditions.
 
@@ -131,9 +125,23 @@ In sprawling campuses and multifaceted facilities, the autonomous vehicle emerge
 **5. Warehouse Management:**
 
 In the domain of warehouse operations, the project revolutionizes inventory handling and logistics. Its precise navigation, object detection, and automated movements optimize material transportation within the facility. By reducing manual intervention, it enhances efficiency, accuracy, and safety, making it a pivotal tool in modern warehouse management.
+
+## Achievements:
+
+**1. Regional Level Project Competition by MSBTE, May 2022:**
+
+- [Secured 1st Rank among 5 districts of Nashik region.](https://drive.google.com/file/d/1OMtAB163GALRdBWvhuo9EocnyOM8qFDZ/view?usp=sharing)
+
+**2. District Level Project Competition by MSBTE, April 2022:**
+
+- [Secured 3rd Rank in Nashik district](https://drive.google.com/file/d/1OMg6czY1069x1jVwxb7507FooUPWCVee/view?usp=sharing)
+
 ## Contributors
 
-[Purva Yeshi](https://github.com/PurviSYeshi)           
-[Suraj Sonawane](https://github.com/SurajSonawane2415)           
-[Pranav Vispute](https://github.com/visputepnv6)           
-[Pallavi Chavanake](https://github.com/chavankepal64)           
+- [Purva Yeshi](https://github.com/PurviSYeshi)           
+- [Suraj Sonawane](https://github.com/SurajSonawane2415)           
+- [Pranav Vispute](https://github.com/visputepnv6)           
+- [Pallavi Chavanake](https://github.com/chavankepal64)    
+
+## Acknowledgements       
+Special thanks to our guide, Prof. Mahendra V. Patil, and all professors of the Electronics and Telecommunication Engineering department at Government Polytechnic Nashik for their constant support and guidance throughout the project.
